@@ -232,12 +232,7 @@ Released under the MIT License — see the `LICENSE` file.
 If you use GreenPEFT, please cite the paper:
 
 ```bibtex
-@article{erfan2026greenpeft,
-  title   = {Green Parameter-Efficient Fine-Tuning: Sustainable PEFT for Large Language Models},
-  author  = {Erfan, Fatemeh and Abusitta, Adel and Abdul Wahab, Omar and Bellaiche, Martine and Halabi, Talal},
-  year    = {2026},
-  note    = {Code: \url{https://github.com/erfan38/Green-PEFT}}
-}
+Comming soon!
 ```
 
 ---

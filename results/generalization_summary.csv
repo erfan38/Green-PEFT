@@ -1,0 +1,7 @@
+model,dataset,mode,energy_wh,time_seconds,co2_kg_pue,skip_rate_pct,run_dir
+tinyllama-1.1b,guanaco,baseline,6.2282,275.9,0.00037369480002243197,0.0,/content/multi_eval/tinyllama-1.1b/guanaco/baseline/baseline_20260619_025938/
+tinyllama-1.1b,guanaco,green,4.8265,215.6,0.00028958744436568217,22.73,/content/multi_eval/tinyllama-1.1b/guanaco/green/green_20260619_030433/
+smollm2-1.7b,guanaco,baseline,9.4283,417.6,0.000565700614677266,0.0,/content/multi_eval/smollm2-1.7b/guanaco/baseline/baseline_20260619_030821/
+smollm2-1.7b,guanaco,green,7.3957,325.3,0.00044374400290588195,20.47,/content/multi_eval/smollm2-1.7b/guanaco/green/green_20260619_031546/
+qwen-0.5b,dolly,baseline,3.575,160.2,0.00021450128219273058,0.0,/content/multi_eval/qwen-0.5b/dolly/baseline/baseline_20260619_032125/
+qwen-0.5b,dolly,green,1.8671,85.8,0.00011202379772824445,49.7,/content/multi_eval/qwen-0.5b/dolly/green/green_20260619_032418/
